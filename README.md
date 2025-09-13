@@ -1,6 +1,6 @@
 # Superstore Sales Data Analysis
 
-## Please fine the project overview below
+## Please find the project overview below
 This project is a **beginner-friendly data analysis** of the Superstore dataset from Kaggle.  
 The goal is to analyze sales trends, top-performing products, customer segments, and regional contributions to provide actionable business insights.  
 
